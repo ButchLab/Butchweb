@@ -1,8 +1,6 @@
-Thank you for downloading Shards!
+## Butchweb
+![1_0HP2je9Tcm-64J4S-lQSgA](https://user-images.githubusercontent.com/42229194/91531659-55317880-e937-11ea-8c7e-56b19d42bb78.png)
 
-If you are looking for the SCSS files, make sure you
-check out the official repository on GitHub:
+Butchweb company profile website with only landing page inside, hosted on [Github pages](https://butchlab.github.io/Butchweb/) (currently).
 
-https://github.com/designrevision/shards-ui
-
-With love: https://github.com/technext 
+Thanks to shards and the license🔥
